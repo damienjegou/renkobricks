@@ -1,21 +1,10 @@
-<<<<<<< HEAD
-/pom.xml
-*jar
-/lib
-/classes
-/native
-/.lein-failures
-/checkouts
-/targets/
-/.lein-deps-sum
-=======
+*~
 pom.xml
 *jar
-/lib/
-/classes/
-/native
-/.lein-failures
-/checkouts
-/targets/
+lib
+classes
+native
+.lein-failures
+checkouts
+targets/
 .lein-deps-sum
->>>>>>> db970d7155aa59d904a8f959464f8c795a7f19e4
